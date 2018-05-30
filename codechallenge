@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Solution for Technigo Coding Challenge</title>
+
+     
+</head>
+
+
+
+<body>
+    <!-- YOUR CODE GOES HERE: -->
+    <!-- Top Right -->
+    <a href="https://www.google.com/gmail/" style="position: relative; bottom: 200px; left: 1000px; color: rgba(0,0,0,0.87);
+    text-decoration: none; ">Gmail</a>
+    <a href="https://images.google.com/" style="position: relative; bottom: 200px; left: 1030px; color: rgba(0,0,0,0.87);
+    text-decoration: none;">Images</a>
+    <img src="https://imageog.flaticon.com/icons/png/512/54/54404.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF" style="position: relative; bottom: 200px; left: 1050px; height: 12px;
+    width: 30px;">
+    <!-- Middle center -->
+    <img src="https://timedotcom.files.wordpress.com/2015/09/googles-new-logo-5078286822539264-2-hp.gif" style=" position: relative; left: 391px;">
+    <input type="text" name="lname"style=" position: relative; left: 38px; width: 300px;"><br>
+    <div style="position: relative; left: 612px; bottom: -20px;">
+        <button type="button">Google Search</button> <button type="button">I'm Feeling Lucky</button>
+    </div>
+    <p style="position:relative; left:633px; bottom:-20px;">Google offered in: <a href="https://www.google.se/" style="color: blue;">Svenska</a></p>
+
+
+    
+</body>
+
+</html>
